@@ -29,5 +29,5 @@ int main()
 	cout<<vowel<<endl;
 	cout<<consonant<<endl;
 	cout<<digits<<endl;
-	coutjanju<<special<<endl;
+	cout<<special<<endl;
 }
